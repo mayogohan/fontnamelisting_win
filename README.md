@@ -1,1 +1,1 @@
-# fontnamelisting_win
+# FontNameLister for Windows
